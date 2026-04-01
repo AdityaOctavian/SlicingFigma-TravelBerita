@@ -10,6 +10,7 @@ Website sederhana bertema pariwisata Indonesia yang menampilkan informasi destin
  Responsive design (menyesuaikan layar HP & desktop)
  Hover effects interaktif pada menu dan card
 
+
 📁 SlicingFigmaDesign-Travel
 │── index.html
 │── style.css
@@ -19,6 +20,7 @@ Website sederhana bertema pariwisata Indonesia yang menampilkan informasi destin
 │    ├── jogja.jpg
 │    ├── bandaneira.jpg
 │    ├── rajaampat.avif
+
 
  Cara Run
 Download atau clone repository ini
