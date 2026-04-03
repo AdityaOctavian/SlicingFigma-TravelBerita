@@ -25,8 +25,8 @@ Website sederhana bertema pariwisata Indonesia yang menampilkan informasi destin
  Cara Run
 Download atau clone repository ini
 Pastikan semua file berada dalam satu folder
-Buka file index.html di browser
-Selesai — tinggal nikmati tampilan websitenya
+Buka file index.html di browser ATAU BISA CLICK LINK DISNI
+https://adityaoctavian.github.io/SlicingFigma-TravelBerita/
 
 
 Preview Tampilan
