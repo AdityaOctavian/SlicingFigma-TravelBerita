@@ -17,7 +17,6 @@ body {
     flex-direction: column;
 }
 
-/* dark overlay */
 body::before {
     content: '';
     position: fixed;
