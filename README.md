@@ -1,4 +1,4 @@
-Liburan Indonesia
+Liburan Indonesia(UNTUK TUGAS LKS)
 
 Website sederhana bertema pariwisata Indonesia yang menampilkan informasi destinasi populer seperti Bali, Yogyakarta, dan Banda Neira. Project ini dibuat menggunakan HTML dan CSS murni dengan tampilan modern dan responsif.
 
